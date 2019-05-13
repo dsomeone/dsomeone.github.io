@@ -36,4 +36,3 @@ fields:
   label: Activate Share Buttons
   name: share
   default: true
-pages:
