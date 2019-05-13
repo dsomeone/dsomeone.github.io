@@ -1,0 +1,39 @@
+---
+label: Default
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: Layout
+  config:
+    required: true
+  default: post
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: tag_list
+  name: tags
+  label: Tags
+- type: tag_list
+  name: categories
+  label: Categories
+- type: file
+  label: Featured Image
+  name: image
+- type: boolean
+  name: hide
+  label: Hidden
+- type: datetime
+  name: date
+  label: Date
+- type: boolean
+  name: comments
+  label: Activate Comments
+  default: true
+- type: boolean
+  label: Activate Share Buttons
+  name: share
+  default: true
+pages:
