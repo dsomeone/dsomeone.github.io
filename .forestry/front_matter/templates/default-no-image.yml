@@ -27,4 +27,5 @@ fields:
   name: share
   default: true
 pages:
+- about-1.md
 - _posts/2019-05-12-the-greatest-showman-piano-medley-costantino-carrara-section-c.md
