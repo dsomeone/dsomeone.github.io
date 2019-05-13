@@ -27,4 +27,8 @@ fields:
   name: share
   default: true
 pages:
+<<<<<<< HEAD
 - about.md
+=======
+- about-1.md
+>>>>>>> d93228673df2904db849e7a2bf718ddf637f3002
