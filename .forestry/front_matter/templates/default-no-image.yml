@@ -16,5 +16,15 @@ fields:
   name: share
   label: Share
   default: true
+- type: tag_list
+  name: tags
+  label: Tags
+- type: tag_list
+  name: categories
+  label: Categories
+- type: boolean
+  label: Activate Share Buttons
+  name: share
+  default: true
 pages:
 - _posts/2019-05-12-the-greatest-showman-piano-medley-costantino-carrara-section-c.md
