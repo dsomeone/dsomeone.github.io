@@ -16,3 +16,5 @@ fields:
   name: share
   label: Share
   default: true
+pages:
+- _posts/the-greatest-showman-piano-medley-costantino-carrara-section-c.md
